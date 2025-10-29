@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@hexlet/immutable-fs-trees": "^0.7.2"
+  }
+}
